@@ -1,0 +1,26 @@
+{
+  "name": "verdaccio-groups2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffery021121/verdaccio-groups2.git"
+  },
+  "keywords": [
+    "verdaccio",
+    "verdaccio-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffery021121/verdaccio-groups2/issues"
+  },
+  "homepage": "https://github.com/jeffery021121/verdaccio-groups2#readme",
+  "dependencies": {
+    "http-errors": "^1.8.0"
+  }
+}
