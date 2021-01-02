@@ -7,7 +7,7 @@
 ```yaml
 # 在auth中定义group,注意是数组
 auth:
-  groups:
+  groups2:
    admin:
    - jack
    developer:
